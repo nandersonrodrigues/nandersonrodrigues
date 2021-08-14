@@ -1,9 +1,9 @@
-<a href="https://codeforces.com/profile/Nanderson" target='_blank'><img src="https://i.ibb.co/HVW1BPH/codeforces.png" alt="codeforces-icon" border="0" width=50 height=50></a> 
-<a href="https://www.kaggle.com/nandersonrodrigues" target='_blank'><img src="https://i.ibb.co/bv9fhN6/kaggle.png" alt="kaggle-icon" border="0" width=50 height=50></a> 
-<a href="https://www.hackerrank.com/nandersondsr" target='_blank'><img src="https://i.ibb.co/dtynpCv/hakcerank.png" alt="hackerrank-icon" border="0" width=50 height=50 ></a>
-<a href="https://replit.com/@nandersonr" target='_blank'><img src="https://i.ibb.co/8gj7zhf/replit.png" alt="replit" border="0" width=50 height=50></a>
-<a href="https://www.freecodecamp.org/nanderson-rodrigues" target='_blank'><img src="https://i.ibb.co/ZJGjLR9/freecodecamp.jpg" alt="freecodecamp" border="0" width=51 height=51></a>
-<a href="https://pt.khanacademy.org/profile/nandersondsr/" target='_blank'><img src="https://i.ibb.co/Wsjhkr9/khanacademy.png" alt="freecodecamp" border="0" width=51 height=51></a>
+<a href="https://codeforces.com/profile/Nanderson" target="_blank"><img src="https://i.ibb.co/HVW1BPH/codeforces.png" alt="codeforces-icon" border="0" width=50 height=50></a> 
+<a href="https://www.kaggle.com/nandersonrodrigues" target="_blank"><img src="https://i.ibb.co/bv9fhN6/kaggle.png" alt="kaggle-icon" border="0" width=50 height=50></a> 
+<a href="https://www.hackerrank.com/nandersondsr" target="_blank"><img src="https://i.ibb.co/dtynpCv/hakcerank.png" alt="hackerrank-icon" border="0" width=50 height=50 ></a>
+<a href="https://replit.com/@nandersonr" target="_blank"><img src="https://i.ibb.co/8gj7zhf/replit.png" alt="replit" border="0" width=50 height=50></a>
+<a href="https://www.freecodecamp.org/nanderson-rodrigues" target="_blank"><img src="https://i.ibb.co/ZJGjLR9/freecodecamp.jpg" alt="freecodecamp" border="0" width=51 height=51></a>
+<a href="https://pt.khanacademy.org/profile/nandersondsr/" target="_blank"><img src="https://i.ibb.co/Wsjhkr9/khanacademy.png" alt="freecodecamp" border="0" width=51 height=51></a>
 
 <!--
 **nandersonrodrigues/nandersonrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
