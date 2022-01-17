@@ -1,10 +1,10 @@
 
 <h3 align="left">I like to code in ...</h3>
 <p align="left">
-<img src="https://i.ibb.co/wCRwbBm/java.png" alt="java" border="0" width=100 height=100>
-<img src="https://i.ibb.co/pXJ3W9K/python.png" alt="python" border="0" width=100 height=100>
-<img src="https://i.ibb.co/wC0nshP/clojure.png" alt="clojure" border="0" width=100 height=100>
-<img src="https://i.ibb.co/wW4dqp5/c.png" alt="c++" border="0" width=100 height=100>
+<img src="https://i.ibb.co/wCRwbBm/java.png" alt="java" border="0" width=60 height=60>
+<img src="https://i.ibb.co/pXJ3W9K/python.png" alt="python" border="0" width=60 height=60>
+<img src="https://i.ibb.co/wC0nshP/clojure.png" alt="clojure" border="0" width=60 height=60>
+<img src="https://i.ibb.co/wW4dqp5/c.png" alt="c++" border="0" width=60 height=60>
 <p/>
 
 <h3 align="left">You can find me on...</h3>
