@@ -26,12 +26,5 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=nandersonrodrigues&repo=java-old-school&theme=github_dark">
     </img>
   </a>
-  <a href="https://github.com/nandersonrodrigues/mywebpage">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nandersonrodrigues&repo=mywebpage&theme=github_dark">
-    </img>
-  </a>
 </p>
 
