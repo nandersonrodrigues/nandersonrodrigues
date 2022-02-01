@@ -26,5 +26,13 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=nandersonrodrigues&repo=java-old-school&theme=github_dark">
     </img>
   </a>
+  
+  <a href="https://github.com/nandersonrodrigues/go-bot" >
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nandersonrodrigues&repo=go-bot&theme=github_dark">
+    </img>
+  </a>
 </p>
 
