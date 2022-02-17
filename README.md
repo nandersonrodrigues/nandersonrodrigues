@@ -1,12 +1,4 @@
 
-<h3 align="left">I like to code in ...</h3>
-<p align="left">
-<img src="https://i.ibb.co/wCRwbBm/java.png" alt="java" border="0" width=60 height=60>
-<img src="https://i.ibb.co/pXJ3W9K/python.png" alt="python" border="0" width=60 height=60>
-<img src="https://i.ibb.co/wC0nshP/clojure.png" alt="clojure" border="0" width=60 height=60>
-<img src="https://i.ibb.co/wW4dqp5/c.png" alt="c++" border="0" width=60 height=60>
-<p/>
-
 <h3 align="left">You can find me on...</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/nandersondsr" target="_blank"><img src="https://i.ibb.co/0F6NnS1/hackerrank.png" alt="hackerrank-icon" border="0" width=60 eight=60</a>
