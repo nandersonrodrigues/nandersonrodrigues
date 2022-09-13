@@ -8,7 +8,8 @@
 <a href="https://replit.com/@nandersonr" target="_blank"><img src="https://i.ibb.co/LC3cWZG/replit.png" alt="replit" border="0" width=60 height=60></a>
 <a href="https://www.beecrowd.com.br/judge/pt/profile/547927"><img src="https://i.ibb.co/1mS2G1z/becrowd.jpg" alt="becrowd" border="0" width=60 height=60></a>
 </p>
-  
+
+<!--
 <h3 align="left">Current working on ...</h3>
 <p align="left">
   
@@ -20,4 +21,5 @@
     </img>
   </a>
 </p>
+-->
 
