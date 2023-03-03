@@ -1,5 +1,4 @@
 
-<h3 align="left">you can find me at...</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/nandersondsr" target="_blank">hackerrank</a>
 <a href="https://www.freecodecamp.org/nanderson-rodrigues" target="_blank">freecodecamp</a>
